@@ -1,8 +1,8 @@
 Hi! I'm Gita Iqlima with quite a lot of nicknames. However, you can call me Gita. I am currently studying at Insan Pembangunan Indoensia University in Tangerang majoring in Information Systems. My residence is in South Sumatra, precisely in Musi Rawas but now I live in Tangerang. Happy learning and exploring!!! 👋
-
-Follow & Contact me at
-Instagram : @gitaiqlima14
-Linkedin  : Gita Iqlima
+<p></p>
+Follow & Contact me at<p></p>
+Instagram : @gitaiqlima14<p></p>
+Linkedin  : Gita Iqlima<p></p>
 Email     : gitapadangsi85@gmail.com
 <!--
 **gitaiqlima/gitaiqlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
