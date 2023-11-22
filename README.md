@@ -2,8 +2,8 @@ Hi! I'm Gita Iqlima with quite a lot of nicknames. However, you can call me Gita
 <p>
 Follow & Contact me at<br/>
 Instagram&emsp;: @gitaiqlima14<br/>
-Linkedin  &emsp;: Gita Iqlima<br/>
-Email     : gitapadangsi85@gmail.com<br/></p>
+Linkedin  &emsp;%ensp;: Gita Iqlima<br/>
+Email     &emsp;%ensp;: gitapadangsi85@gmail.com<br/></p>
 <!--
 **gitaiqlima/gitaiqlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
